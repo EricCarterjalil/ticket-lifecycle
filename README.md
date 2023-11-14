@@ -37,10 +37,11 @@ Basically we just have a general inquiry from one of our users they wanted to kn
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="807" alt="image" src="https://github.com/EricCarterjalil/ticket-lifecycle/assets/150721888/4cd4127c-3d20-4c3c-b5c1-d474600a6363">
+
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Basically we updated the ticket to what user jane submitted a little while ago. I uodated the SEV to A which in our department means it has to be resolved in 24 hours, also updated this ticket to emergency since the entire mobile banking system is down and we moved this ticket to support, another department that would be able to properly handle this.
 </p>
 <br />
 
